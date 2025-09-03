@@ -40,7 +40,7 @@ In this section I briefly describe each project and link to the code.
 
 ### MatLab
 **Time Series Modeling - financial data of Johnson&Johnson**  
-**Code:** [J&J: Time Series Analysis](jnj_log_returns_mdl)  
+**Code:** [J&J: Time Series Analysis](jnj_log_returns_mdl.mlx)  
 **Goal:** Model identification for daily closing prices of J&J from 2013 to 2020.  
 **Description:** The work analyzes Johnson & Johnson’s stock performance from 2013 to 2020 using time series modeling. Daily closing prices were collected from Yahoo Finance, providing 1,762 data points after excluding non-trading days. The analysis began with stationarity checks, followed by differentiation to stabilize the series. ARMA models were tested for the mean process, with ARMA(0,0) selected for its simplicity and parsimony. Residual diagnostics revealed volatility clustering, leading to the application of a GARCH(1,1) model, which successfully captured conditional variance dynamics. Finally, forecasting was performed, showing stable expected returns but increasing uncertainty over time due to evolving volatility.
 **Skills:** financial data collection, statistical testing, time series and volatility modeling (ARMA/GARCH), model evaluation, and forecasting with financial interpretation.
