@@ -13,6 +13,7 @@ This repository showcases my data analytics projects and learning journey.
   - [R](#r)
   - [Excel / Google Sheets](#excel--google-sheets)
   - [MatLab](#matlab)
+  - [Other Projects]()
 - [Education](#education)
 - [Contact](#contact)
 
@@ -65,7 +66,7 @@ In this section I briefly describe each project and link to the code.
 
 **Tech:** EDA, PCA, Linear Regression, Random Forest, Clustering
 
-** Outcome:** This report reveals key insights into social media usage and user emotions across
+**Outcome:** This report reveals key insights into social media usage and user emotions across
 different platforms. The analysis identified significant differences in engagement
 behaviors, with clustering techniques highlighting distinct user segments.
 
