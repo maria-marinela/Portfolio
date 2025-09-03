@@ -51,7 +51,7 @@ In this section I briefly describe each project and link to the code.
 ### R
 **Social Media Usage and Emotional Wellbeing - Analysis **  
 **Code:** [Social_and_Wellbeing](Social_and_Wellbeing)  
-**Report:**
+**Report:**[Report](report_social_and_wellbeing.pdf.pdf)
 **Description:** Applied clustering techniques on user interaction data to reveal distinct engagement patterns; derived actionable insights for marketing strategies.
 **Tech:** EDA, PCA, Linear Regression, Random Forest, Clustering
 ** Outcome:** This report reveals key insights into social media usage and user emotions across
