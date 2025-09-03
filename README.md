@@ -3,7 +3,7 @@
 ## About
 I'm an engineering student, with a background in economics and management. 
 
-**CV:** [Download my CV (PDF)](CV.pdf)  
+**CV:** [Download my CV (PDF)](CV_MMC.pdf)  
 
 This repository showcases my data analytics projects and learning journey.
 
